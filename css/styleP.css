@@ -31,7 +31,7 @@
             width: 100%;
             padding: 1em;
             text-align: center;
-            position: absolute;
+            padding-bottom: 1;
             bottom: 0;
         }    
           .container{
@@ -50,7 +50,7 @@
           ul.slider{
             position: relative;
             width: 800px;
-            height: 300px;
+            height: 500px;
           }
           
           ul.slider li {
@@ -65,8 +65,8 @@
           }
           
           ul.slider li img{
-            width: 80%;
-            height: 300px;
+            width: 100%;
+            height: 500px;
             object-fit: cover;
           }
           
